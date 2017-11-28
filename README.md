@@ -1,4 +1,4 @@
-# react-native-runiosdevteam
+# react-native-runios-withdevteam
 Plugin for React Native to allow the selection of the development team for building/running on a device.
 
 This is useful for completely automated deployment. 
