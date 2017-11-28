@@ -1,0 +1,25 @@
+{
+  "name": "react-native-runiosdevteam",
+  "version": "1.0.0",
+  "description": "Run RN projects on IOS with a named development team",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rhdeck/react-native-runiosdevteam.git"
+  },
+  "author": "Ray Deck",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rhdeck/react-native-runiosdevteam/issues"
+  },
+  "rnpm": {
+    "plugin":"plugin"
+  },
+  "homepage": "https://github.com/rhdeck/react-native-runiosdevteam#readme"
+}
