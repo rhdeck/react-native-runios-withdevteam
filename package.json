@@ -1,5 +1,5 @@
 {
-  "name": "react-native-runiosdevteam",
+  "name": "react-native-runios-withdevteam",
   "version": "1.0.0",
   "description": "Run RN projects on IOS with a named development team",
   "main": "index.js",
@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rhdeck/react-native-runiosdevteam.git"
+    "url": "git+https://github.com/rhdeck/react-native-runios-withdevteam.git"
   },
   "author": "Ray Deck",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/rhdeck/react-native-runiosdevteam/issues"
+    "url": "https://github.com/rhdeck/react-native-runios-withdevteam/issues"
   },
   "rnpm": {
     "plugin":"plugin"
   },
-  "homepage": "https://github.com/rhdeck/react-native-runiosdevteam#readme"
+  "homepage": "https://github.com/rhdeck/react-native-runios-withdevteam#readme"
 }
