@@ -19,7 +19,10 @@
     "url": "https://github.com/rhdeck/react-native-runios-withdevteam/issues"
   },
   "rnpm": {
-    "plugin":"plugin"
+    "plugin": "plugin"
   },
-  "homepage": "https://github.com/rhdeck/react-native-runios-withdevteam#readme"
+  "homepage": "https://github.com/rhdeck/react-native-runios-withdevteam#readme",
+  "dependencies": {
+    "inquirer": "^4.0.1"
+  }
 }
