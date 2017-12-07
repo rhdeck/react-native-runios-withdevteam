@@ -2,7 +2,6 @@
   "name": "react-native-runios-withdevteam",
   "version": "1.2.0",
   "description": "Run RN projects on IOS with a named development team",
-  "main": "index.js",
   "directories": {
     "lib": "lib"
   },
