@@ -1,6 +1,6 @@
 {
   "name": "react-native-runios-withdevteam",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "description": "Run RN projects on IOS with a named development team",
   "directories": {
     "lib": "lib"
@@ -20,8 +20,7 @@
   "rnpm": {
     "plugin": "plugin"
   },
-  "homepage":
-    "https://github.com/rhdeck/react-native-runios-withdevteam#readme",
+  "homepage": "https://github.com/rhdeck/react-native-runios-withdevteam#readme",
   "dependencies": {
     "xcode-devteam-management": "^1.0.0"
   }
