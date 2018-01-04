@@ -20,9 +20,9 @@
   "rnpm": {
     "plugin": "plugin"
   },
-  "homepage": "https://github.com/rhdeck/react-native-runios-withdevteam#readme",
+  "homepage":
+    "https://github.com/rhdeck/react-native-runios-withdevteam#readme",
   "dependencies": {
-    "child-process-promise": "^2.2.1",
-    "inquirer": "^4.0.1"
+    "xcode-devteam-management": "^1.0.0"
   }
 }
